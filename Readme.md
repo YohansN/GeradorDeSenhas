@@ -1,1 +1,1 @@
-Código gerador de senhas aleatórias.
+Este programa gera senhas aleatórias de, no mínimo, 8 caracteres. As senhas contem Letras(maiúsculas e minúsculas), números e símbolos.
