@@ -1,1 +1,1 @@
-Teste
+Código gerador de senhas aleatórias.
